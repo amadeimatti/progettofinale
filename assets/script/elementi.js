@@ -249,9 +249,7 @@ elementi.pick2=pick2;
 	//elementi.neve=neve;
 
 	
-	
-	var axisHelper = new THREE.AxisHelper( 15 );
-	elementi.add( axisHelper );
+
 	
 	
 var lampadine = creaLampadine();
